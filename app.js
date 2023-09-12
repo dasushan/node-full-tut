@@ -21,3 +21,4 @@ const newItems = _.flattenDeep(items)
 console.log(newItems)
 
 // npm install  -- command installs all packages that are present in dependencies of the package.json file
+// lodash is a utility library
