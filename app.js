@@ -20,5 +20,7 @@ const items = [1, [2, [3, [4]]]]
 const newItems = _.flattenDeep(items)
 console.log(newItems)
 
+ console.log("hello world")
+
 // npm install  -- command installs all packages that are present in dependencies of the package.json file
 // lodash is a utility library
